@@ -6,7 +6,7 @@
 Since the pandemic, through out a personal change, i discovered a new passionate world, and that's why i'm here.
 I feel identified as a MERN developer, however in my repositories you can find projects that have technologies i've been learning from my begining to the last times.
 Here are some of them:
-<p align="center">
+<p align="center"  >
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width='40' height='40'/></a>
 <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
@@ -36,4 +36,7 @@ I recommend you to check ecommerce project. That was my first teamwork. Here i h
 <p>
 If you have any question or suggestion, please let me know about it, so that i can help you!
 </p>
+Here is my contact: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-fidececchi-fullstack/)
     
